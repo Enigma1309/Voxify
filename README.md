@@ -43,7 +43,7 @@
 - Persistent queue
 - Super Sleek and Modern UI
 - Lot of customizations
-  - Wavy Player
+  - Modern Wavy Player  
   - Modern and Classical UI switching
   - etc...
 - Open YouTube/YouTube Music links (`watch`, `playlist`, `channel`)
