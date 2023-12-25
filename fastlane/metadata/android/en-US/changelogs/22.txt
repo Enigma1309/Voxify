@@ -1,4 +1,4 @@
-* Sharing to ViMusic to import video's/music/playlists/albums/radio from YouTube music is now supported
+* Sharing to Voxify to import video's/music/playlists/albums/radio from YouTube music is now supported
 * Fixed an inconsistency with player settings
 * Added 'stop when closed' setting
 * Fixed an inconsistency where before local songs could be trending

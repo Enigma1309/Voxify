@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace = "it.vfsfitvnm.compose.routing"
+    namespace = "com.exilonium.compose.routing"
     compileSdk = 34
 
     defaultConfig {

@@ -2,8 +2,8 @@
 kotlin = "1.9.21"
 ksp = "1.9.21-1.0.15"
 
-jvm = "11"
-agp = "8.3.0-alpha18"
+jvm = "17"
+agp = "8.1.2"
 
 compose_compiler = "1.5.7"
 

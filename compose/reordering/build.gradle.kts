@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace = "it.vfsfitvnm.compose.reordering"
+    namespace = "com.exilonium.compose.reordering"
     compileSdk = 34
 
     defaultConfig {

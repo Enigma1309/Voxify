@@ -41,14 +41,14 @@ android {
         debug {
             applicationIdSuffix = ".debug"
             versionNameSuffix = "-DEBUG"
-            manifestPlaceholders["appName"] = "ViMusic (Debug)"
+            manifestPlaceholders["appName"] = "Voxify (Debug)"
         }
 
         release {
             versionNameSuffix = "-RELEASE"
             isMinifyEnabled = true
             isShrinkResources = true
-            manifestPlaceholders["appName"] = "ViMusic"
+            manifestPlaceholders["appName"] = "Voxify"
             proguardFiles(getDefaultProguardFile("proguard-android-optimize.txt"), "proguard-rules.pro")
             buildConfigField("String", "RELEASE_HACK", "\"AndroidWhyTfDidYouMakeMeDoThis\"")
         }
@@ -59,7 +59,7 @@ android {
 
             applicationIdSuffix = ".nightly"
             versionNameSuffix = "-NIGHTLY"
-            manifestPlaceholders["appName"] = "ViMusic Nightly"
+            manifestPlaceholders["appName"] = "Voxify Nightly"
             signingConfig = signingConfigs.findByName("ci")
         }
     }

@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace = "it.vfsfitvnm.compose.core.data"
+    namespace = "com.exilonium.compose.core.data"
     compileSdk = 34
 
     defaultConfig {

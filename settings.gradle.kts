@@ -28,7 +28,7 @@ pluginManagement {
     }
 }
 
-rootProject.name = "ViMusic"
+rootProject.name = "Voxify"
 
 include(":app")
 include(":core:data")

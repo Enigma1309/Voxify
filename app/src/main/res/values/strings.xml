@@ -129,7 +129,7 @@
     <string name="no_browser_installed">Couldn\'t find an application to browse the internet</string>
     <string name="no_equalizer_installed">Couldn\'t find an application to equalize audio</string>
     <string name="no_file_chooser_installed">Couldn\'t find an application to create documents</string>
-    <string name="no_battery_optimization_settings_found">Couldn\'t find battery optimization settings, please whitelist ViMusic manually</string>
+    <string name="no_battery_optimization_settings_found">Couldn\'t find battery optimization settings, please whitelist Voxify manually</string>
 
     <string name="related_albums">Related albums</string>
     <string name="similar_artists">Similar artists</string>
@@ -170,8 +170,8 @@
     <string name="view_album">View album</string>
     <string name="view_playlist">View playlist</string>
 
-    <string name="search_placeholder">Enter a name</string>
-    <string name="format_version_credits">v%1$s by vfsfitvnm</string>
+    <string name="search_placeholder">Search For Song</string>
+    <string name="format_version_credits">v%1$s by Exilonium</string>
     <string name="social">Social</string>
     <string name="contact">Contact</string>
     <string name="github">GitHub</string>
@@ -241,7 +241,7 @@
     <string name="backup_description">Personal preferences (i.e. the theme mode) and the cache are excluded.</string>
     <string name="backup_action_description">Export the database to the external storage</string>
     <string name="restore">Restore</string>
-    <string name="restore_warning">Existing data will be overwritten.\nViMusic will automatically close itself after restoring the database.</string>
+    <string name="restore_warning">Existing data will be overwritten.\nVoxify will automatically close itself after restoring the database.</string>
     <string name="restore_description">Import the database from the external storage</string>
 
     <string name="other">Other</string>
@@ -317,7 +317,7 @@
     <string name="username">Username</string>
     <string name="password">Password</string>
     <string name="login">Login</string>
-    <string name="sync_description">You can host playlists elsewhere and synchronize them with ViMusic. Currently only supports Piped.</string>
+    <string name="sync_description">You can host playlists elsewhere and synchronize them with Voxify. Currently only supports Piped.</string>
     <string name="add_account">Add account</string>
     <string name="add_account_description">Link a Piped account with your instance, username and password.</string>
     <string name="learn_more">Learn more</string>
