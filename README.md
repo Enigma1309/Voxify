@@ -6,6 +6,9 @@
 
 ---
 
+This Repo Is a Fork of yet another [Fork](https://github.com/25huizengek1/ViMusic).of [ViMusic](https://github.com/vfsfitvnm/ViMusic)
+
+---
 <p align="center">
   <img src="./fastlane/metadata/android/en-US/images/phoneScreenshots/1.jpg" width="30%" />
   <img src="./fastlane/metadata/android/en-US/images/phoneScreenshots/2.jpg" width="30%" />
